@@ -2,9 +2,9 @@
 I am Aarya Mahajan.
 
 My eduaction:
-1.SSC: Sharda mandir girls' high school, Aurangabad(2017)
-2.Diploma: Government polytechnic, Aurangabad(2020)
-3.Graduation: Zeal college of engineering and research, Pune(2023)
+1. SSC: Sharda mandir girls' high school, Aurangabad(2017)
+2. Diploma: Government polytechnic, Aurangabad(2020)
+3. Graduation: Zeal college of engineering and research, Pune(2023)
 
 Technical skills:
 1. C programming
