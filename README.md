@@ -22,3 +22,7 @@ Projects:
 1. Portfolio
 2. E-commerce website
 3. A cloned website
+
+Extracurricular activities/ hobbies:
+1. To play piano
+2. Badminton
