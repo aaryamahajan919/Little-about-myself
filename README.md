@@ -11,7 +11,8 @@ Technical skills:
 2. data structute
 3. frontend(html, css, js)
 4. backend(java)
-5. Sql
+5. Spring framework
+6. Sql
 
 Work experience:
 Fresher
