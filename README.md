@@ -12,7 +12,6 @@ Technical skills:
 3. frontend(html, css, js)
 4. backend(java)
 5. Sql
-6. Linux
 
 Work experience:
 Fresher
