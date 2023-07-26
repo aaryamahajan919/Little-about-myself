@@ -1,5 +1,6 @@
 # Little-about-myself
 I am Aarya Mahajan.
+I'm 22.
 
 My eduaction:
 1. SSC: Sharda mandir girls' high school, Aurangabad(2017)
@@ -11,7 +12,7 @@ Technical skills:
 2. data structute
 3. frontend(html, css, js)
 4. backend(java)
-5. Spring framework
+5. react framework
 6. Sql
 
 Work experience:
@@ -21,7 +22,7 @@ Fresher
 Projects:
 1. Portfolio
 2. E-commerce website
-3. A cloned website
+3. Netflix cloned website
 
 Extracurricular activities/ hobbies:
 1. To play piano
